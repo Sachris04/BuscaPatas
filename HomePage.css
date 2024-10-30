@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  list-style: none;
+  text-decoration: none;
+}
+
+#part_1{
+  display: flex;
+  align-items: center; /* Vertical alignment */
+  justify-content: center; /* Horizontal alignment */
+  height: 50%; /* Ensure the div has a height */
+}
+
+#part_2{
+  height: 20%;
+}
+
+#part_3{
+  height: 0%
+}
